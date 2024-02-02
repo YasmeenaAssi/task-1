@@ -1,0 +1,131 @@
+.MainContainer{
+    display: flex;
+   
+    gap: 0.1px;
+
+}
+.AboutMeContainer{
+    display: flex;
+    flex-direction: column; 
+    gap: 2px;
+    width: 400px;
+   
+}
+.AboutMeTitle{
+    display: flex;
+    flex-direction: column; 
+    gap: 0; 
+}
+.AboutME{
+    font-family:  sans-serif;
+    font-size: 16px;
+    color: #030000;
+    align-items: justify;
+    padding-top: 80px;
+    padding-right: 1px;
+    height: 50px;
+   
+}
+.MyAboutMePar{
+    width: 400px;
+    font-family:  sans-serif;
+    font-size: 15px;
+    align-items: center;
+}
+
+.lineContainer{
+    height: 5px;
+    width: 80px;
+    border-top: 3px solid blue;
+}
+
+.PersonalInfo{
+Height: 200px;
+width: 500px;
+border: 1px;
+padding-top: 100px;
+padding-left: 160px;
+display: flex;
+gap: 40px;
+
+
+}
+.img{
+    padding-top: 16px;
+}
+p{
+    line-height: 1.2;
+
+}
+.ContactInfo {
+    Height: 400px;
+    width: 400px;
+    padding-top: 10px;
+    font-family:  sans-serif;
+    font-size: 14px;
+    color: #030000;
+    text-align: justify;
+    
+}
+.bolded {
+    font-weight: bold;
+  }
+.MainSkillscontainer{
+    Height: 500px;
+    width: 500px;
+    border: 1px;
+    padding-top: 1px;
+    padding-left: 170px;
+    display: flex;
+    flex-direction: column ;
+    gap: -10px;  
+}
+.Skillword{
+    height: 100;
+
+}
+
+h2{
+    font-weight: bold;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+.Ranges{
+display: flex;
+flex-direction: column;
+padding-top: 1px;
+height: 500px;
+width: 600px;
+}
+.container{
+    height: 18px;
+        width: 400px;
+        background-color: #a0b7d9;
+
+}
+
+
+.html {
+   
+    height: 18px;
+    width: 85%; 
+    background-color: #0a0a8c;
+} 
+.css {
+    height: 18px;
+    width: 75%;
+    background-color: #0a0a8c;
+    } 
+.php {
+    height: 18px;
+    width: 50%; 
+    background-color: #0a0a8c;
+} 
+.js {
+    height: 18px;
+    width: 90%;
+    background-color: #0a0a8c;
+} 
+
+
+
